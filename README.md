@@ -1,6 +1,8 @@
 # TransversesComp
 No-technical lessons (management, agility, presentation, etc)
 
+
+
 ## Prenez la parole en public
 https://openclassrooms.com/fr/courses/4577696-prenez-la-parole-en-public
 
